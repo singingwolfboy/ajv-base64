@@ -1,0 +1,31 @@
+{
+  "name": "ajv-base64",
+  "version": "1.0.0",
+  "description": "base64 format for ajv",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singingwolfboy/ajv-base64.git"
+  },
+  "keywords": [
+    "ajv",
+    "base64",
+    "jsonschema"
+  ],
+  "author": {
+    "name": "David Baumgold",
+    "email": "david@davidbaumgold.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singingwolfboy/ajv-base64/issues"
+  },
+  "homepage": "https://github.com/singingwolfboy/ajv-base64#readme",
+  "devDependencies": {
+    "ajv": "^6.12.0",
+    "jest": "^25.1.0"
+  }
+}
